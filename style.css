@@ -1,0 +1,14 @@
+heaeder{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	background-color: red;
+}
+
+li{
+	 display: flex;
+	 flex-direction:row;
+	 
+	 
+}
